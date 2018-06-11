@@ -33,7 +33,7 @@ kramdown:
 ####################################
 #
 owner:
-  name: Daniel Chadwick
+  name: "Daniel Chadwick"
   avatar: leonids-logo.png
   job: "Student @ University of Hull"
   bio: "Computer Science Student and Basketball fan."
