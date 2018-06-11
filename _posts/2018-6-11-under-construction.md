@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Under Construction!
+categories: [site]
+comments: true
 ---
 
 Figuring out static page generation with Jykll...
