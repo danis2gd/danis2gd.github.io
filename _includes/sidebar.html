@@ -13,7 +13,7 @@
         <a href="{{ site.url }}/">home</a>
       </li>
       {% for page in site.pages %} {% if page.title contains "404" %}
-        <!-- dont show 404 -->
+
       {% else %}
       <li class="nav-item">
         <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
